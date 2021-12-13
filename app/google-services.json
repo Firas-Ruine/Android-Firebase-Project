@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591671204645",
+    "firebase_url": "https://mini-projet-57ae9-default-rtdb.firebaseio.com",
+    "project_id": "mini-projet-57ae9",
+    "storage_bucket": "mini-projet-57ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591671204645:android:967a9775560bf5812558cc",
+        "android_client_info": {
+          "package_name": "com.example.miniprojetfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591671204645-qr1q2qn4jf0vhpt8v6j03ee5sda9t0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vuU67ZSqHZS3Rx4gJWFbKvZ-SEVRF0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591671204645-qr1q2qn4jf0vhpt8v6j03ee5sda9t0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
